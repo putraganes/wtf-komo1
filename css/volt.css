@@ -6201,6 +6201,24 @@ textarea.form-control-lg {
     text-decoration: none;
 }
 
+.btn-biru{
+    color:  #fA8072;
+    background-color: #fA8072;
+    border-color: #111827;
+}
+
+.btn-zxc{
+    color: #65c6cc;
+    background-color: #65c6cc;
+    border-color: #111827;
+}
+
+.btn-cadetblue{
+    color: #FFFAFA;
+    background-color: #FFFAFA;
+    border-color: #111827;
+}
+
 .btn-link:hover {
     color: black;
     text-decoration: none;
